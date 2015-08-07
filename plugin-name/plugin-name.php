@@ -6,10 +6,8 @@
  * Version:		1.0.0
  * Author:		Your Name or Your Company
  * Author URI:	http://example.com/
- * License:		GPL2
- * License URI:	https://www.gnu.org/licenses/gpl-2.0.html
- * Domain Path:	/languages
  * Text Domain:	plugin-name
+ * Domain Path:	/languages
  */
 
 // If this file is called directly, abort.
