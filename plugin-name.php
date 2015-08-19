@@ -6,7 +6,7 @@
  * Version:         1.0.0
  * Author:          Your Name or Your Company
  * Author URI:      http://example.com/
- * Text Domain:     plugin-name
+ * Text Domain:     wordpress-plugin-starter
  * Domain Path:     /languages
  */
 
